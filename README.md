@@ -20,7 +20,7 @@ Install via [Modrinth App](https://modrinth.com/app) or manually using a modpack
 
 ## 🐞 Bug Reports / Issues
 Found a bug or crash? Please open an issue here:  
-👉 [GitHub Issues](https://github.com/Quited1/Framium-Plus-Reforge-Version-/issues/new)
+👉 [GitHub Issues](https://github.com/Quited1/Framium-Plus/issues/new)
 
 Provide:
 - Modpack version
